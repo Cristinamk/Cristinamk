@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋, my name is Cristina Mocanu and I am a Software Engineer with experience in Full Stack Development: Python, Java, Flask, Spring Suite Tool, AWS. 
+  
+Having a vast experience in time and team management at FedEx ,prioritizing tasks and improving myself every day, this has provided me with unique technical skills that I can apply to my future role as a software developer. 
+
+What makes me unique is the passion for progress and learning by collaboration with other teammates. Also, I will be a valuable asset for a team and company by bringing diversity and being able to communicate with other developers across the world by knowing Java and Python, but also other speaking languages as Romanian, French, Russian and Spanish. I’m not afraid of failure. In fact, I think it is an essential part of the experimental process that gets you to success.
 
 <!--
 **Cristinamk/Cristinamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
